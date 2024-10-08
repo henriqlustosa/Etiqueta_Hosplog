@@ -100,7 +100,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(96, 13);
             this.label4.TabIndex = 15;
-            this.label4.Text = "Versão 1.0 (06/23)";
+            this.label4.Text = "Versão 2.0 (10/24)";
             // 
             // Form1
             // 
